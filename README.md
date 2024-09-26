@@ -1,4 +1,4 @@
-# Tic_Tac_Toe_Ai
+# Tic_Tac_Toe_Alg
 Its basically an unbeatable tic tac toe bot, based on Google's tic tac toe Impossible mode algorithim
 
 In order to play the game you'll have to use the console, input a number and it will place X as player 1
